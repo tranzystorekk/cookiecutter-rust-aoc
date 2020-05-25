@@ -1,0 +1,7 @@
+{
+        "project_slug": "aoc-rust",
+        "name": "Xyz Zyzzy",
+        "email": "xyz.zyzzy@xymail.com",
+        "aoc_utils_version": "0.1.0",
+        "itertools_version": "0.9.0"
+}

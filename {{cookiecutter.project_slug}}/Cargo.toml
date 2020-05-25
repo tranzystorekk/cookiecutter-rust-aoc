@@ -1,0 +1,15 @@
+[package]
+name = "{{ cookiecutter.project_slug }}"
+version = "0.1.0"
+authors = ["{{ cookiecutter.name }} <{{ cookiecutter.email }}>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "d01p1"
+path = "src/days/d01p1.rs"
+
+[dependencies]
+aoc-utils = "{{ cookiecutter.aoc_utils_version }}"
+itertools = "{{ cookiecutter.itertools_version }}"
