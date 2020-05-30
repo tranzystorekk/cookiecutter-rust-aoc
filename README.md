@@ -15,5 +15,5 @@ Cookiecutter template for an [Advent of Code](https://adventofcode.com/) solutio
 * `project_slug` - project name [aoc-rust]
 * `name` - author name
 * `email` - author email
-* `aoc_utils_version` - version of the `aoc-utils` crate [0.1.0]
+* `aoc_utils_version` - version of the `aoc-utils` crate [0.2.1]
 * `itertools_version` - version of tje `itertools` crate [0.9.0]
